@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Text Formatting Example/Form1.cs) (VB: [Form1.vb](./VB/Text Formatting Example/Form1.vb))
+<!-- default file list end -->
 # Text Formatting Simple Example
 
 
