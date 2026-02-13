@@ -22,7 +22,7 @@ The following example demonstrates the Rich Edit Control text formatting capabil
 * [Format Text in Rich Text Documents](https://docs.devexpress.com/WindowsForms/117433/controls-and-libraries/rich-text-editor/text-formatting)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-rich-edit-text-formatting&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-rich-edit-text-formatting&~~~was_helpful=no)
 
